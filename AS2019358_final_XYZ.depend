@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1596992272 source:c:\users\user\desktop\codeblocks\semifinal_xyz\main.c
+	<stdio.h>
+	<stdlib.h>
+	"xyz.h"
+
+1596904554 c:\users\user\desktop\codeblocks\semifinal_xyz\xyz.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1596997143 source:c:\users\user\desktop\codeblocks\as2019358_final_xyz\main.c
+	<stdio.h>
+	<stdlib.h>
+	"xyz.h"
+
+1596998479 c:\users\user\desktop\codeblocks\as2019358_final_xyz\xyz.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1596997143 source:c:\users\user\desktop\as2019358_g.l.h.b.gaweshika_csc_107_2.0\sourcecode (as2019358_g.l.h.b.gaweshika.c file and the data files. exe file)\as2019358_final_xyz\main.c
+	<stdio.h>
+	<stdlib.h>
+	"xyz.h"
+
+1596998479 c:\users\user\desktop\as2019358_g.l.h.b.gaweshika_csc_107_2.0\sourcecode (as2019358_g.l.h.b.gaweshika.c file and the data files. exe file)\as2019358_final_xyz\xyz.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
